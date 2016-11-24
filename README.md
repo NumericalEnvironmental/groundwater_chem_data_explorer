@@ -1,5 +1,5 @@
 # groundwater_chem_data_explorer
-This python script uses pandas, scikit-learn, and scipy to process groundwater quality data sets from California's Groundwater Ambient Monitoring and Assessment (GAMA) database. These data sets are large text files and must be downloaded from the GAMA website.
+This Python 2.7 script uses pandas, scikit-learn, and scipy to process groundwater quality data sets from California's Groundwater Ambient Monitoring and Assessment (GAMA) database. These data sets are large text files and must be downloaded from the GAMA website.
 
 Background discussion is provided at: https://numericalenvironmental.wordpress.com/2016/09/12/exploring-a-large-groundwater-quality-data-set/
 
